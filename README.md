@@ -88,7 +88,7 @@ ORDER BY
     salary_year_avg DESC 
 ```
 Here's the breakdown of the top 10 skills required for top data analyst jobs in 2026 :
-![Top Paying Skills](assets\2_top_paying_skills.png)
+![Top Paying Skills](assets/2_top_paying_skills.png)
 *Bar graph visualizing the top 10 skills for acheiving highest paid jobs for data analysts; Gemini generated this graph from my SQL query results*
 
 ### 3: Top 5 Skills required  for **Work From Home**
@@ -221,7 +221,7 @@ Analyzing both demand and compensation reveals the sweet spot for strategic care
 * **Enterprise & Cloud Infrastructure Value:** Cloud ecosystem tools like **AWS** ($108,317) and traditional database management systems like **Oracle** ($104,534) maintain a steady presence with **32 to 37** job postings, proving that data architecture and cloud infrastructure skills pay a significant premium.
 
 Here is the break down of top 10 optimal skills in order to work from home 
-![Optimal Skills](assets\5_optimal_skills.png)
+![Optimal Skills](assets/5_optimal_skills.png)
 *Bar graph visualizing the top 10 skills that offer both job security (high demand) and excellent financial upside (high salaries) for remote Data Analysts; Gemini generated this graph from my SQL query results*
 # What I learned
 Throughout this adventure, I've turbocharged my SQL toolkit with some serious firepower:
