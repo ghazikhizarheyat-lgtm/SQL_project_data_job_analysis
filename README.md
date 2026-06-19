@@ -88,7 +88,7 @@ ORDER BY
     salary_year_avg DESC 
 ```
 Here's the breakdown of the top 10 skills required for top data analyst jobs in 2026 :
-![Top Paying Skills](assets\2_top_paying_skills.png)
+![assets/1_top_paying_roles.png](assets\2_top_paying_skills.png)
 *Bar graph visualizing the top 10 skills for acheiving highest paid jobs for data analysts; Gemini generated this graph from my SQL query results*
 
 ### 3: Top 5 Skills required  for **Work From Home**
