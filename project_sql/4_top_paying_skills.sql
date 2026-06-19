@@ -1,5 +1,5 @@
 /*
-Answer: What are the top skills based on salary in work from home job type?
+Question: What are the top skills based on salary in work from home job type?
 - Look at the average salary associated with each skill for Data Analyst positions
 - Focuses on roles with specified salaries, regardless of location
 - Why? It reveals how different skills impact salary levels for Data Analysts and
@@ -24,12 +24,10 @@ ORDER BY
 LIMIT 25
 
 /*
-Here's the breakdown of the top skills for data analysts based on salary:
-- High-paying skills are dominated by specialized tools like SVN ($400,000) 
-  and Solidity ($179,000).
-- Data science and big data technologies like Couchbase ($160,515) and Kafka 
-  ($160,103) command premium salaries.
-- Traditional developer tools like Git ($157,118) also rank highly, showing
+Here are the top skills based on salary in work from home job type:
+- High-paying skills are dominated by specialized tools like pyspark ($208,172) 
+  and bitbucket ($189,155).
+- Traditional developer tools like postgresql ($157,118) also rank highly, showing
    that version control expertise significantly increases earning potential.
 */
 
